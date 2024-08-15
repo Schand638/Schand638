@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️I'm currently working on Javascript Frameworks.<br>🌐I'm looking to collaborate on Open Source Projects<br>🍵I'm Looking for help with Backend Services<br>☁️I'm currently learning Cloud computing<br>🖱️Ask me about anything web related
+Hi I'm Chand Basha.<br>🖥️I'm currently working on Javascript Frameworks.<br>🌐I'm looking to collaborate on Open Source Projects<br>🍵I'm Looking for help with Backend Services<br>☁️I'm currently learning Cloud computing<br>🖱️Ask me about anything web related
 
 
 ## 🌐 Socials:
